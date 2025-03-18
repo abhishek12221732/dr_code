@@ -1,0 +1,3 @@
+[submodule "lead-management-frontend"]
+	path = lead-management-frontend
+	url = https://github.com/abhishek12221732/submodule
